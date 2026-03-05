@@ -12,6 +12,6 @@ share/*
 .vscode/*
 twelve_chat.bat
 .env
+*.env
 user_info.json
 clustering.ipynb
-
